@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d3941124.css",
+    "main.js": "/static/js/main.0b4193dd.js",
+    "static/media/bg_6.jpg": "/static/media/bg_6.a9e06c2a8d1889743009.jpg",
+    "static/media/bg_2.jpg": "/static/media/bg_2.8529025bd329938c7ef3.jpg",
+    "static/media/breadcrumbs_bg.jpg": "/static/media/breadcrumbs_bg.88109e9ef48fd2ce38f0.jpg",
+    "static/media/blog_img_2.jpg": "/static/media/blog_img_2.fc6d598c486cd0ace75f.jpg",
+    "static/media/notFound.jpg": "/static/media/notFound.d3388b2198fbac602036.jpg",
+    "static/media/default_image-1.jpg": "/static/media/default_image-1.7e0dd72427ef66d87244.jpg",
+    "static/media/bg_8.jpg": "/static/media/bg_8.6fa3cc3879bfd814a707.jpg",
+    "static/media/blog_img_1.jpg": "/static/media/blog_img_1.0f4363cf0879e584697c.jpg",
+    "static/media/popup_bg.jpg": "/static/media/popup_bg.cc5f35a337eb103f5fd8.jpg",
+    "static/media/what_we_offer.jpg": "/static/media/what_we_offer.263ec28ca4b7be0ee3e0.jpg",
+    "static/media/map-bg-orange.jpg": "/static/media/map-bg-orange.b6c5c67f8dfdf9aaf06b.jpg",
+    "static/media/blog_img_3.jpg": "/static/media/blog_img_3.8e1e98ba12edac08a49a.jpg",
+    "static/media/dummyLogo.jpg": "/static/media/dummyLogo.58000828771507914a4e.jpg",
+    "static/media/bg-text.jpg": "/static/media/bg-text.7135a7119393fa1115dd.jpg",
+    "static/media/SAPLogo.png": "/static/media/SAPLogo.d3247b41ab984e530ea3.png",
+    "static/media/logo_footer.png": "/static/media/logo_footer.8c9d54b9a57bb02b605e.png",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.d3941124.css",
+    "static/js/main.0b4193dd.js"
+  ]
+}
