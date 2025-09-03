@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.23008bd9.css",
-    "main.js": "/static/js/main.39fb1c64.js",
+    "main.js": "/static/js/main.b91076fe.js",
     "static/media/Air_Sea_Land.jpg": "/static/media/Air_Sea_Land.4155274227943b26a8ba.jpg",
     "static/media/logo_footer.png": "/static/media/logo_footer.f2f9f04fcac8b8d3669f.png",
     "static/media/bg_6.jpg": "/static/media/bg_6.a9e06c2a8d1889743009.jpg",
@@ -23,6 +23,6 @@
   },
   "entrypoints": [
     "static/css/main.23008bd9.css",
-    "static/js/main.39fb1c64.js"
+    "static/js/main.b91076fe.js"
   ]
 }
