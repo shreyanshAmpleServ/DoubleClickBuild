@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.css": "/static/css/main.aacae7f4.css",
-    "main.js": "/static/js/main.508640c1.js",
+    "main.css": "/static/css/main.9a73e732.css",
+    "main.js": "/static/js/main.63dd77bb.js",
     "static/media/Home-Page-Image.png": "/static/media/Home-Page-Image.9e0638f8936674ad7ea2.png",
-    "static/media/About-Us-Image.jpg": "/static/media/About-Us-Image.4c297f06cc9e6e8c9680.jpg",
     "static/media/help.png": "/static/media/help.0414a0c3073906d7b2f8.png",
     "static/media/Air_Sea_Land.jpg": "/static/media/Air_Sea_Land.4155274227943b26a8ba.jpg",
     "static/media/logo_footer.png": "/static/media/logo_footer.f2f9f04fcac8b8d3669f.png",
+    "static/media/About-Us-Image.jpg": "/static/media/About-Us-Image.76d258150541f973eb45.jpg",
     "static/media/bg_6.jpg": "/static/media/bg_6.a9e06c2a8d1889743009.jpg",
     "static/media/bg_2.jpg": "/static/media/bg_2.8529025bd329938c7ef3.jpg",
     "static/media/breadcrumbs_bg.jpg": "/static/media/breadcrumbs_bg.88109e9ef48fd2ce38f0.jpg",
@@ -37,7 +37,7 @@
     "index.html": "/index.html"
   },
   "entrypoints": [
-    "static/css/main.aacae7f4.css",
-    "static/js/main.508640c1.js"
+    "static/css/main.9a73e732.css",
+    "static/js/main.63dd77bb.js"
   ]
 }
