@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.f63923ef.css",
-    "main.js": "/static/js/main.5455b959.js",
+    "main.css": "/static/css/main.60af980b.css",
+    "main.js": "/static/js/main.585f80b6.js",
     "static/media/Home-Page-Image.png": "/static/media/Home-Page-Image.9e0638f8936674ad7ea2.png",
     "static/media/fleetCover.png": "/static/media/fleetCover.d83428e078a8be60e077.png",
     "static/media/help.png": "/static/media/help.0414a0c3073906d7b2f8.png",
@@ -39,7 +39,7 @@
     "index.html": "/index.html"
   },
   "entrypoints": [
-    "static/css/main.f63923ef.css",
-    "static/js/main.5455b959.js"
+    "static/css/main.60af980b.css",
+    "static/js/main.585f80b6.js"
   ]
 }
