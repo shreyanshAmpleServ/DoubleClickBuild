@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.7a2a764e.css",
-    "main.js": "/static/js/main.c5461d80.js",
+    "main.js": "/static/js/main.27194479.js",
     "static/media/Home-Page-Image.png": "/static/media/Home-Page-Image.9e0638f8936674ad7ea2.png",
     "static/media/help.png": "/static/media/help.0414a0c3073906d7b2f8.png",
     "static/media/dashboard-preview.png": "/static/media/dashboard-preview.ad3e15fa305d7843a30d.png",
@@ -27,7 +27,6 @@
     "static/media/Logo-5.png": "/static/media/Logo-5.5203a81a89d8e09ef3b8.png",
     "static/media/Logo-10.png": "/static/media/Logo-10.43578126977909206f4f.png",
     "static/media/Cloud-logo.png": "/static/media/Cloud-logo.874ea106a775db33686e.png",
-    "static/media/bg-text.jpg": "/static/media/bg-text.7135a7119393fa1115dd.jpg",
     "static/media/Aiva-Logo.png": "/static/media/Aiva-Logo.a626fa17fc5c856c815d.png",
     "static/media/Logo-6.png": "/static/media/Logo-6.b14868b4e911b931fe90.png",
     "static/media/Logo-1.png": "/static/media/Logo-1.fc7eacea6c41e09f9685.png",
@@ -40,6 +39,6 @@
   },
   "entrypoints": [
     "static/css/main.7a2a764e.css",
-    "static/js/main.c5461d80.js"
+    "static/js/main.27194479.js"
   ]
 }
