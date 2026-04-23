@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.95261b66.css",
-    "main.js": "/static/js/main.ea197cba.js",
+    "main.js": "/static/js/main.e4d0bbdf.js",
     "static/media/Home-Page-Image.png": "/static/media/Home-Page-Image.9e0638f8936674ad7ea2.png",
     "static/media/fleetCover.png": "/static/media/fleetCover.d83428e078a8be60e077.png",
     "static/media/fleetBanner.png": "/static/media/fleetBanner.eb3a7d3573419ef2ddb2.png",
@@ -41,6 +41,6 @@
   },
   "entrypoints": [
     "static/css/main.95261b66.css",
-    "static/js/main.ea197cba.js"
+    "static/js/main.e4d0bbdf.js"
   ]
 }
