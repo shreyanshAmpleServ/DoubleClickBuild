@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.094f76a8.css",
-    "main.js": "/static/js/main.cf64898f.js",
+    "main.js": "/static/js/main.815c20f8.js",
     "static/js/1997.dc48eb7a.chunk.js": "/static/js/1997.dc48eb7a.chunk.js",
     "static/js/1760.b7bb405f.chunk.js": "/static/js/1760.b7bb405f.chunk.js",
     "static/js/3624.37e20efd.chunk.js": "/static/js/3624.37e20efd.chunk.js",
@@ -62,13 +62,13 @@
     "static/js/7738.7f869147.chunk.js": "/static/js/7738.7f869147.chunk.js",
     "static/js/1863.c8638042.chunk.js": "/static/js/1863.c8638042.chunk.js",
     "static/media/Home-Page-Image.png": "/static/media/Home-Page-Image.9e0638f8936674ad7ea2.png",
+    "static/media/logo_footer.png": "/static/media/logo_footer.e9c7ef6e5e864378c29c.png",
     "static/media/fleetCover.png": "/static/media/fleetCover.d83428e078a8be60e077.png",
     "static/media/fleetBanner.png": "/static/media/fleetBanner.eb3a7d3573419ef2ddb2.png",
     "static/media/help.png": "/static/media/help.0414a0c3073906d7b2f8.png",
     "static/media/dashboard-preview.png": "/static/media/dashboard-preview.ad3e15fa305d7843a30d.png",
     "static/media/Air_Sea_Land.jpg": "/static/media/Air_Sea_Land.4155274227943b26a8ba.jpg",
     "static/media/Hero-Image.png": "/static/media/Hero-Image.78f50e7f3bd1157295aa.png",
-    "static/media/logo_footer.png": "/static/media/logo_footer.f2f9f04fcac8b8d3669f.png",
     "static/media/About-Us-Image.jpg": "/static/media/About-Us-Image.76d258150541f973eb45.jpg",
     "static/media/bg_6.jpg": "/static/media/bg_6.a9e06c2a8d1889743009.jpg",
     "static/media/bg_2.jpg": "/static/media/bg_2.8529025bd329938c7ef3.jpg",
@@ -100,6 +100,6 @@
   },
   "entrypoints": [
     "static/css/main.094f76a8.css",
-    "static/js/main.cf64898f.js"
+    "static/js/main.815c20f8.js"
   ]
 }
