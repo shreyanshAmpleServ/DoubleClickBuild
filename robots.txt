@@ -1,5 +1,0 @@
-User-agent: *
-Allow: /
-
-# Sitemaps
-Sitemap: https://doubleclick.co.tz/sitemap.xml
